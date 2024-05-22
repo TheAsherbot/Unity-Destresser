@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GameDev\\Unity\\unity Projs\\2024\\CuteCats\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A295574F-208F-2C41-9980-BA2A263A3E2B}|Assembly-CSharp-Editor.csproj|c:\\gamedev\\unity\\unity projs\\2024\\cutecats\\assets\\tools\\cutecatphotos\\editor\\destresserimagegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A295574F-208F-2C41-9980-BA2A263A3E2B}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\tools\\cutecatphotos\\editor\\destresserimagegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A295574F-208F-2C41-9980-BA2A263A3E2B}|Assembly-CSharp-Editor.csproj|C:\\GameDev\\Unity\\unity Projs\\2024\\CuteCats\\assets\\tools\\cutecatphotos\\editor\\destressereditorwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A295574F-208F-2C41-9980-BA2A263A3E2B}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\tools\\cutecatphotos\\editor\\destressereditorwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DestresserEditorWindow.cs",
+              "DocumentMoniker": "C:\\GameDev\\Unity\\unity Projs\\2024\\CuteCats\\Assets\\Tools\\CuteCatPhotos\\Editor\\DestresserEditorWindow.cs",
+              "RelativeDocumentMoniker": "Assets\\Tools\\CuteCatPhotos\\Editor\\DestresserEditorWindow.cs",
+              "ToolTip": "C:\\GameDev\\Unity\\unity Projs\\2024\\CuteCats\\Assets\\Tools\\CuteCatPhotos\\Editor\\DestresserEditorWindow.cs",
+              "RelativeToolTip": "Assets\\Tools\\CuteCatPhotos\\Editor\\DestresserEditorWindow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:22:31.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DestresserImageGenerator.cs",
+              "DocumentMoniker": "C:\\GameDev\\Unity\\unity Projs\\2024\\CuteCats\\Assets\\Tools\\CuteCatPhotos\\Editor\\DestresserImageGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\Tools\\CuteCatPhotos\\Editor\\DestresserImageGenerator.cs",
+              "ToolTip": "C:\\GameDev\\Unity\\unity Projs\\2024\\CuteCats\\Assets\\Tools\\CuteCatPhotos\\Editor\\DestresserImageGenerator.cs",
+              "RelativeToolTip": "Assets\\Tools\\CuteCatPhotos\\Editor\\DestresserImageGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:16:29.556Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
