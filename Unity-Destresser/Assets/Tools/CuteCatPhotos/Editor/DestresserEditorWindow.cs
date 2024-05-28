@@ -20,6 +20,7 @@ namespace TheAshBot.Assets.Destresser
 
         private async void OnEnable()
         {
+            response = default(DestresserImageGenerator.Response);
             response = await DestresserImageGenerator.GetCatPicture();
         }
 

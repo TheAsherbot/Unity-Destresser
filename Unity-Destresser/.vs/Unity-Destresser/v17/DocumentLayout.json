@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GameDev\\Unity\\unity Projs\\Plugins\\Unity-Destresser\\Unity-Destresser\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{887A602A-1C50-32DD-217B-9DA4B5283D79}|Assembly-CSharp-Editor.csproj|c:\\gamedev\\unity\\unity projs\\plugins\\unity-destresser\\unity-destresser\\assets\\tools\\cutecatphotos\\editor\\destressereditorwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887A602A-1C50-32DD-217B-9DA4B5283D79}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\tools\\cutecatphotos\\editor\\destressereditorwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DestresserEditorWindow.cs",
+              "DocumentMoniker": "C:\\GameDev\\Unity\\unity Projs\\Plugins\\Unity-Destresser\\Unity-Destresser\\Assets\\Tools\\CuteCatPhotos\\Editor\\DestresserEditorWindow.cs",
+              "RelativeDocumentMoniker": "Assets\\Tools\\CuteCatPhotos\\Editor\\DestresserEditorWindow.cs",
+              "ToolTip": "C:\\GameDev\\Unity\\unity Projs\\Plugins\\Unity-Destresser\\Unity-Destresser\\Assets\\Tools\\CuteCatPhotos\\Editor\\DestresserEditorWindow.cs",
+              "RelativeToolTip": "Assets\\Tools\\CuteCatPhotos\\Editor\\DestresserEditorWindow.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T21:56:47.928Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
